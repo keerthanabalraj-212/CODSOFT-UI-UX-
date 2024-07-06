@@ -7,3 +7,8 @@ I recently completed my UI/UX design internship with CodSoft, where I successful
 Task 2: Email template for CodSoft Internship
 
 I have successfully completed Task 2 of my internship with CodSoft. For this task, I have designed a user-friendly and visually appealing email template focused on enhancing the UI/UX experience for users.
+
+
+Task 3: Restaurant Menu for CodSoft Internship
+
+I have completed the Restaurant Menu Task for my UI/UX design internship with CodSoft. In this task, I designed a user-friendly and visually appealing restaurant menu interface. The design focused on enhancing the user experience by ensuring easy navigation, clear presentation of menu items, and an attractive layout. This project allowed me to apply my design skills to create a practical solution for a real-world application, further honing my abilities in UI/UX design.
